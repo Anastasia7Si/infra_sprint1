@@ -1,5 +1,7 @@
 IP: 84.201.161.235;
 name_taski: https://nayah.hopto.org;
+login: Admin;
+password: Nicole089;
 name_kittygram: https://yakittygram.zapto.org;
-login: yc-user;
-password: NRjeSf;
+login: Admin_k;
+password: Nicole089;
