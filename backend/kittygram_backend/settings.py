@@ -10,7 +10,7 @@ SECRET_KEY = os.getenv('TOKEN', default='123')
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['84.201.161.235', '127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['84.201.161.235', '127.0.0.1', 'localhost', 'yakittygram.zapto.org']
 
 INSTALLED_APPS = [
     'django.contrib.admin',
